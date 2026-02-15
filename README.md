@@ -1,2 +1,2 @@
-# Simple ML Training Project
-This project trains a RandomForest model on tabular data.
+# Proyecto MLOps - Ivan Ramos 
+Este proyecto implementa un pipeline de MLOps para el dataset Adult Income. 
